@@ -38,7 +38,7 @@ Then user is presented with empty fields to enter a new note title and the noteâ
 
 ## Project Links
 [Repo Link](https://github.com/SepidehAyani/note_taker) <br>
-[GitHub Project Link](https://github.com/SepidehAyani/note_taker)
+[Deployed Project](https://young-sea-70654.herokuapp.com/)
 
 ## Screenshots
 ![Project Preview](assets/img/overview.png)
