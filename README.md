@@ -11,6 +11,7 @@ So that they can organize their thoughts and keep track of tasks they need to co
 1. [About the Project](#About-The-Project)
 1. [Project Links](#Project-Links)
 1. [Screenshots](#Screenshots)
+1. [Demo](#Demo)
 1. [Installation](#Installation)
 1. [Usage](#Usage)
 1. [Contribution Guidelines](#Contribution-Guidelines)
@@ -41,6 +42,8 @@ Then user is presented with empty fields to enter a new note title and the noteâ
 
 ## Screenshots
 ![Project Preview](assets/img/overview.png)
+
+## Demo
 [![Project demo](assets/img/demo.png)](assets/img/demo.mov)
 
 ## Instructions
