@@ -61,9 +61,10 @@ git clone https://github.com/SepidehAyani/note_taker.git
 - <a href="https://fonts.google.com/">Google Fonts</a>
 
 ## Usage
-- Note Taker allows users to add note's title and description
-- Note Taker allows users to save the notes which they don't lose them even if they refresh the page
-- Note Taker allows users to delete notes
+Note Taker allows users to:
+- add note's title and description.
+- save the notes which they don't lose them even if they refresh the page.
+- delete notes.
 
 #### Contribution Guidelines:
 ```  
