@@ -54,10 +54,10 @@ git clone https://github.com/SepidehAyani/note_taker.git
 - <a href="https://www.npmjs.com/">NPM</a>
 - <a href="https://www.npmjs.com/package/uuid">UUID</a>
 - <a href="https://nodejs.org/">Node.js</a>
-<p><a href="https://www.npmjs.com/package/express">Express.js</a></p>
-<p><a href="https://www.npmjs.com/package/inquirer">Inquirer.js</a></p>
-<p><a href="https://getbootstrap.com/">Bootstrap</a></p>
-<p><a href="https://fonts.google.com/">Google Fonts</a></p>
+- <a href="https://www.npmjs.com/package/express">Express.js</a>
+- <a href="https://www.npmjs.com/package/inquirer">Inquirer.js</a>
+- <a href="https://getbootstrap.com/">Bootstrap</a>
+- <a href="https://fonts.google.com/">Google Fonts</a>
 
 ## Usage
 - Note Taker allows users to add note's title and description
