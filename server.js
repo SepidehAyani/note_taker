@@ -10,7 +10,6 @@ app.use(express.urlencoded({ extended: true }));
 
 // Parsing incoming JSON data
 app.use(express.json());
-app.use(express.static('public'));
 app.use('/api', api);
 app.use('/', html);
 
