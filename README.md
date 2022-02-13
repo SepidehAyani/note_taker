@@ -10,7 +10,7 @@ So that they can organize their thoughts and keep track of tasks they need to co
 ## Table of Contents 
 1. [About the Project](#About-The-Project)
 1. [Project Links](#Project-Links)
-1. [Demo](#Demo)
+1. [Screenshots](#Screenshots)
 1. [Installation](#Installation)
 1. [Usage](#Usage)
 1. [Contribution Guidelines](#Contribution-Guidelines)
@@ -39,11 +39,9 @@ Then user is presented with empty fields to enter a new note title and the noteâ
 [Repo Link](https://github.com/SepidehAyani/note_taker) <br>
 [GitHub Project Link](https://github.com/SepidehAyani/note_taker)
 
-## Demo
-[![Project demo](assets/img/demo.png)](assets/img/demo.mov)
-
-##### This is a screenshot of the application and how it works: <br>
+## Screenshots
 ![Project Preview](assets/img/overview.png)
+[![Project demo](assets/img/demo.png)](assets/img/demo.mov)
 
 ## Instructions
 ```  
