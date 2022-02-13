@@ -51,8 +51,8 @@ git clone https://github.com/SepidehAyani/note_taker.git
 ```
 
 #### Languages and libraries used in this project:
-<p><a href="https://www.npmjs.com/">NPM</a></p>
-<p><a href="https://www.npmjs.com/package/uuid">UUID</a></p>
+- <a href="https://www.npmjs.com/">NPM</a>
+- <a href="https://www.npmjs.com/package/uuid">UUID</a>
 <p><a href="https://nodejs.org/">Node.js</a></p>
 <p><a href="https://www.npmjs.com/package/express">Express.js</a></p>
 <p><a href="https://www.npmjs.com/package/inquirer">Inquirer.js</a></p>
