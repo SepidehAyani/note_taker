@@ -44,10 +44,10 @@ Then user is presented with empty fields to enter a new note title and the noteâ
 [GitHub Project Link](https://github.com/SepidehAyani/note_taker)
 
 ## Demo
-[![Project demo](assets/demo.png)](assets/demo.mov)
+[![Project demo](assets/img/demo.png)](assets/img/demo.mov)
 
 ##### This is a screenshot of the application and how it works: <br>
-![Project Preview](assets/overview.png)
+![Project Preview](assets/img/overview.png)
 
 ## Instructions
 ```  
