@@ -1,0 +1,26 @@
+{
+  "name": "note_taker",
+  "version": "1.0.0",
+  "description": "An application that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sepideh Ayani",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "inquirer": "^7.3.3",
+    "uuid": "^8.3.0",
+    "v1": "^1.0.0",
+    "v4": "0.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SepidehAyani/note_taker"
+  },
+  "bugs": {
+    "url": "https://github.com/SepidehAyani/note_takerissues"
+  },
+  "homepage": "https://github.com/SepidehAyani/note_taker#readme"
+}
