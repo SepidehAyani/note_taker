@@ -1,7 +1,3 @@
-# note_taker
-
-
-
 # Note Taker
 A Note Taker application can be used to write and save notes. This application uses an Express.js for its back end then savea and retrievea note data from a JSON file.
 
